@@ -16,11 +16,11 @@
 </p>
 <h3>Welcome to Israel! ברוך הבא לישראל <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/></h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/israel/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @israel!</a><br/>Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>19:01</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/israel/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @israel!</a><br/>Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>19:01</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Saladikhanov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Jager_24" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saladikhanov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 3 April, 18:14 GMT+3
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 3 April, 21:16 GMT+3
 
