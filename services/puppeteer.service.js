@@ -53,8 +53,8 @@ class PuppeteerService {
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
     try {
-      // const page = `https://dumpor.com/v/${acc}`;
-      const page = `https://instagram.com/${acc}`;
+      const page = `https://dumpor.com/v/${acc}`;
+      // const page = `https://instagram.com/${acc}`;
       await this.goToPage(page);
       let previousHeight;
 
