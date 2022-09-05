@@ -20,5 +20,5 @@ Currently, the weather is: <b> 31°C, <i>few clouds</i></b></br>Today, the sun r
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 5 September, 12:16 GMT+3
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 5 September, 15:30 GMT+3
 
