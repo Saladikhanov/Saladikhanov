@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+
 <p>Welcome to my page! </br> I'm Arsen, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/> <b>Rishon leZion, Israel</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -12,26 +13,12 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EDD531?style=flat-square&logo=javascript&logoColor=white" />
-<<<<<<< HEAD
-    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    
-     
-   
-=======
->>>>>>> 072e92ccbc2b81de7b532383ef132cce85e57687
 </p>
-Currently, the weather is: <b> 30°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>18:43</b>.</p>
+Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>18:43</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Saladikhanov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Jager_24" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saladikhanov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-## <<<<<<< HEAD
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 18 September, 14:34 GMT+3
 
-## =======
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 18 September, 14:10 GMT+3
->>>>>>> 072e92ccbc2b81de7b532383ef132cce85e57687
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 18 September, 12:16 GMT+3
