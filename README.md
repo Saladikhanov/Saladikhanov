@@ -20,5 +20,5 @@ Currently, the weather is: <b> 23°C, <i>scattered clouds</i></b></br>Today, the
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 17 November, 11:14 GMT+2
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 17 November, 14:31 GMT+2
 
