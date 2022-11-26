@@ -20,5 +20,5 @@ Currently, the weather is: <b> 16°C, <i>light rain</i></b></br>Today, the sun r
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 26 November, 05:20 GMT+2
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 26 November, 08:17 GMT+2
 
