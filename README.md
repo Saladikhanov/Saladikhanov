@@ -14,11 +14,11 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EDD531?style=flat-square&logo=javascript&logoColor=white" />
 </p>
-Currently, the weather is: <b> 14°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>16:36</b>.</p>
+Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:26</b> and sets at <b>16:36</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Saladikhanov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Jager_24" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saladikhanov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 4 December, 05:14 GMT+2
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 4 December, 08:16 GMT+2
 
