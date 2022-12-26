@@ -20,5 +20,5 @@ Currently, the weather is: <b> 13°C, <i>broken clouds</i></b></br>Today, the su
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 26 December, 05:14 GMT+2
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 26 December, 08:17 GMT+2
 
