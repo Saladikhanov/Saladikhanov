@@ -20,5 +20,5 @@ Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun ri
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 2 January, 14:24 GMT+2
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 2 January, 17:13 GMT+2
 
