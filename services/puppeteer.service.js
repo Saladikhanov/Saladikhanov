@@ -53,8 +53,13 @@ class PuppeteerService {
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
     try {
+<<<<<<< Updated upstream
       const page = `https://dumpor.com/v/${acc}`;
       // const page = `https://instagram.com/${acc}`;
+=======
+      // const page = `https://dumpor.com/v/${acc}`;
+      const page = `https://instagram.com/${acc}`;
+>>>>>>> Stashed changes
       await this.goToPage(page);
       let previousHeight;
 
